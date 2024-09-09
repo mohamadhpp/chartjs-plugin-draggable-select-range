@@ -1,0 +1,46 @@
+html, body, #container
+{
+    width: 100%;
+    height: 100%;
+
+    padding: 0;
+    margin: 0;
+}
+
+#container
+{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#canvasSection
+{
+    width: 75%;
+    height: 60%;
+}
+
+#pluginSection
+{
+    width: 75%;
+    margin-top: 50px;
+}
+
+#result,
+#result div
+{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+
+#result
+{
+    gap: 50px
+}
+
+#result div
+{
+    gap: 5px
+}

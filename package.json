@@ -1,0 +1,29 @@
+{
+    "name": "chartjs-plugin-draggable-select-range",
+    "version": "1.0.0",
+    "description": "A ChartJS select range plugin for Line charts. It select a range of chart from X axis",
+    "main": "index.js",
+    "scripts": {
+        "build": "babel src -d dist",
+        "build:prod": "babel src -d dist && uglifyjs --compress -o ./dist/index.min.js -- ./dist/index.js"
+    },
+    "author": "Mohammad Hossein Pour",
+    "license": "MIT",
+    "devDependencies": {
+        "@babel/cli": "^7.25.6",
+        "@babel/core": "^7.25.2",
+        "@babel/preset-env": "^7.25.4"
+    },
+    "keywords": [
+        "chartjs",
+        "chartjs-plugin",
+        "line chart plugin",
+        "chartjs-plugin-draggable-select-range",
+        "draggable-select-range"
+    ],
+    "packageManager": "yarn@4.4.0+sha512.91d93b445d9284e7ed52931369bc89a663414e5582d00eea45c67ddc459a2582919eece27c412d6ffd1bd0793ff35399381cb229326b961798ce4f4cc60ddfdb",
+    "dependencies": {
+        "chart.js": "^4.4.4",
+        "uglify-js": "^3.19.3"
+    }
+}

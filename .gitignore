@@ -1,0 +1,7 @@
+# Dependency directories
+node_modules
+example/node_modules
+
+# Optional npm cache directory
+example/.parcel-cache
+dist

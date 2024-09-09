@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>
+        Chart.js Draggable Select Range Example
+    </title>
+
+    <link href="./src/example.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div id="container">
+        <div id="canvasSection">
+            <canvas id="example"></canvas>
+        </div>
+
+        <div id="pluginSection">
+            <h3>
+                Selected Range:
+            </h3>
+
+            <div id="result">
+                <div>
+                    <h4>
+                        From:
+                    </h4>
+
+                    <p id="range_from">
+                        ---
+                    </p>
+                </div>
+
+                <div>
+                    <h4>
+                        To:
+                    </h4>
+
+                    <p id="range_to">
+                        ---
+                    </p>
+                </div>
+            </div>
+
+            <button id="clearBtn">
+                Clear
+            </button>
+
+            <button id="setRangeBtn">
+                Set Range (From: 04-24 ,To: 09-08)
+            </button>
+        </div>
+    </div>
+
+    <script type="module" src="src/example.js"></script>
+</body>
+</html>

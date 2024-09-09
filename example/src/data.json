@@ -1,0 +1,1777 @@
+[
+    {
+        "price_avg": "593.238462",
+        "price_number": 100,
+        "date_year_j": "01-05"
+    },
+    {
+        "price_avg": "591.333077",
+        "price_number": 99.67881634080562,
+        "date_year_j": "01-06"
+    },
+    {
+        "price_avg": "593.044615",
+        "price_number": 99.96825355759098,
+        "date_year_j": "01-07"
+    },
+    {
+        "price_avg": "591.566154",
+        "price_number": 99.71895342694229,
+        "date_year_j": "01-08"
+    },
+    {
+        "price_avg": "602.548462",
+        "price_number": 101.57543353922404,
+        "date_year_j": "01-09"
+    },
+    {
+        "price_avg": "605.693846",
+        "price_number": 102.09744698683284,
+        "date_year_j": "01-10"
+    },
+    {
+        "price_avg": "608.593846",
+        "price_number": 102.57623672840798,
+        "date_year_j": "01-11"
+    },
+    {
+        "price_avg": "614.615385",
+        "price_number": 103.56565504730435,
+        "date_year_j": "01-14"
+    },
+    {
+        "price_avg": "621.860000",
+        "price_number": 104.74437838824383,
+        "date_year_j": "01-15"
+    },
+    {
+        "price_avg": "633.627692",
+        "price_number": 106.63671621347781,
+        "date_year_j": "01-16"
+    },
+    {
+        "price_avg": "636.639231",
+        "price_number": 107.11200146979202,
+        "date_year_j": "01-17"
+    },
+    {
+        "price_avg": "642.137692",
+        "price_number": 107.97567130543243,
+        "date_year_j": "01-18"
+    },
+    {
+        "price_avg": "651.860769",
+        "price_number": 109.48984453044847,
+        "date_year_j": "01-19"
+    },
+    {
+        "price_avg": "663.551538",
+        "price_number": 111.28329024093884,
+        "date_year_j": "01-20"
+    },
+    {
+        "price_avg": "656.695385",
+        "price_number": 110.25003922615481,
+        "date_year_j": "01-21"
+    },
+    {
+        "price_avg": "659.579231",
+        "price_number": 110.68918438628108,
+        "date_year_j": "01-22"
+    },
+    {
+        "price_avg": "648.703077",
+        "price_number": 109.0402310098216,
+        "date_year_j": "01-23"
+    },
+    {
+        "price_avg": "652.436154",
+        "price_number": 109.61569875960691,
+        "date_year_j": "01-24"
+    },
+    {
+        "price_avg": "655.875385",
+        "price_number": 110.14283554976096,
+        "date_year_j": "01-25"
+    },
+    {
+        "price_avg": "667.740000",
+        "price_number": 111.95180952124183,
+        "date_year_j": "01-26"
+    },
+    {
+        "price_avg": "676.310769",
+        "price_number": 113.23535835761527,
+        "date_year_j": "01-27"
+    },
+    {
+        "price_avg": "687.549231",
+        "price_number": 114.89708880981807,
+        "date_year_j": "01-28"
+    },
+    {
+        "price_avg": "703.437692",
+        "price_number": 117.20797220312667,
+        "date_year_j": "01-29"
+    },
+    {
+        "price_avg": "723.906923",
+        "price_number": 120.11785764611486,
+        "date_year_j": "01-30"
+    },
+    {
+        "price_avg": "724.918462",
+        "price_number": 120.25759094163412,
+        "date_year_j": "01-31"
+    },
+    {
+        "price_avg": "724.853077",
+        "price_number": 120.24857130654031,
+        "date_year_j": "02-01"
+    },
+    {
+        "price_avg": "720.720769",
+        "price_number": 119.67848225937746,
+        "date_year_j": "02-02"
+    },
+    {
+        "price_avg": "717.203846",
+        "price_number": 119.19050922581555,
+        "date_year_j": "02-03"
+    },
+    {
+        "price_avg": "704.103846",
+        "price_number": 117.36397133521979,
+        "date_year_j": "02-04"
+    },
+    {
+        "price_avg": "701.735385",
+        "price_number": 117.0275918347448,
+        "date_year_j": "02-05"
+    },
+    {
+        "price_avg": "700.391538",
+        "price_number": 116.8360884520274,
+        "date_year_j": "02-06"
+    },
+    {
+        "price_avg": "697.811538",
+        "price_number": 116.46772306495158,
+        "date_year_j": "02-07"
+    },
+    {
+        "price_avg": "696.253077",
+        "price_number": 116.24438754882257,
+        "date_year_j": "02-08"
+    },
+    {
+        "price_avg": "698.506923",
+        "price_number": 116.56809829057059,
+        "date_year_j": "02-09"
+    },
+    {
+        "price_avg": "694.793077",
+        "price_number": 116.03641479858035,
+        "date_year_j": "02-10"
+    },
+    {
+        "price_avg": "694.423846",
+        "price_number": 115.98327221379895,
+        "date_year_j": "02-11"
+    },
+    {
+        "price_avg": "699.383077",
+        "price_number": 116.69742266075811,
+        "date_year_j": "02-12"
+    },
+    {
+        "price_avg": "701.843846",
+        "price_number": 117.04927117996384,
+        "date_year_j": "02-13"
+    },
+    {
+        "price_avg": "706.005385",
+        "price_number": 117.64221489867246,
+        "date_year_j": "02-14"
+    },
+    {
+        "price_avg": "711.658462",
+        "price_number": 118.44292791306398,
+        "date_year_j": "02-15"
+    },
+    {
+        "price_avg": "712.790000",
+        "price_number": 118.6019280599631,
+        "date_year_j": "02-16"
+    },
+    {
+        "price_avg": "694.614615",
+        "price_number": 116.05203468323222,
+        "date_year_j": "02-17"
+    },
+    {
+        "price_avg": "683.464615",
+        "price_number": 114.44682803205919,
+        "date_year_j": "02-18"
+    },
+    {
+        "price_avg": "694.566923",
+        "price_number": 116.07124395006542,
+        "date_year_j": "02-19"
+    },
+    {
+        "price_avg": "692.267692",
+        "price_number": 115.7402130696905,
+        "date_year_j": "02-20"
+    },
+    {
+        "price_avg": "691.463077",
+        "price_number": 115.62398418752565,
+        "date_year_j": "02-21"
+    },
+    {
+        "price_avg": "688.594615",
+        "price_number": 115.20914468337668,
+        "date_year_j": "02-22"
+    },
+    {
+        "price_avg": "686.176923",
+        "price_number": 114.85803941079187,
+        "date_year_j": "02-23"
+    },
+    {
+        "price_avg": "689.216923",
+        "price_number": 115.3010738379348,
+        "date_year_j": "02-24"
+    },
+    {
+        "price_avg": "682.180000",
+        "price_number": 114.2800711949106,
+        "date_year_j": "02-25"
+    },
+    {
+        "price_avg": "674.736923",
+        "price_number": 113.18899889727656,
+        "date_year_j": "02-26"
+    },
+    {
+        "price_avg": "669.433846",
+        "price_number": 112.40305154220644,
+        "date_year_j": "02-27"
+    },
+    {
+        "price_avg": "673.113846",
+        "price_number": 112.95276978874995,
+        "date_year_j": "02-28"
+    },
+    {
+        "price_avg": "676.759231",
+        "price_number": 113.49434013701463,
+        "date_year_j": "02-29"
+    },
+    {
+        "price_avg": "669.617692",
+        "price_number": 112.43908463803201,
+        "date_year_j": "02-30"
+    },
+    {
+        "price_avg": "667.953846",
+        "price_number": 112.190607630946,
+        "date_year_j": "02-31"
+    },
+    {
+        "price_avg": "682.389231",
+        "price_number": 114.35174272829524,
+        "date_year_j": "03-01"
+    },
+    {
+        "price_avg": "690.495385",
+        "price_number": 115.53965039619922,
+        "date_year_j": "03-02"
+    },
+    {
+        "price_avg": "683.820000",
+        "price_number": 114.57289737438141,
+        "date_year_j": "03-03"
+    },
+    {
+        "price_avg": "682.941538",
+        "price_number": 114.44443345112676,
+        "date_year_j": "03-04"
+    },
+    {
+        "price_avg": "681.971538",
+        "price_number": 114.30240079590993,
+        "date_year_j": "03-05"
+    },
+    {
+        "price_avg": "678.952308",
+        "price_number": 113.85967997373979,
+        "date_year_j": "03-06"
+    },
+    {
+        "price_avg": "680.895385",
+        "price_number": 114.14586752728442,
+        "date_year_j": "03-07"
+    },
+    {
+        "price_avg": "685.866154",
+        "price_number": 114.87590170133012,
+        "date_year_j": "03-08"
+    },
+    {
+        "price_avg": "679.546154",
+        "price_number": 113.95443911520577,
+        "date_year_j": "03-09"
+    },
+    {
+        "price_avg": "680.717692",
+        "price_number": 114.12683917855747,
+        "date_year_j": "03-10"
+    },
+    {
+        "price_avg": "676.487692",
+        "price_number": 113.50543620200607,
+        "date_year_j": "03-11"
+    },
+    {
+        "price_avg": "683.173846",
+        "price_number": 114.49379919501673,
+        "date_year_j": "03-12"
+    },
+    {
+        "price_avg": "686.896923",
+        "price_number": 115.03876692494356,
+        "date_year_j": "03-13"
+    },
+    {
+        "price_avg": "680.309231",
+        "price_number": 114.07971589713745,
+        "date_year_j": "03-16"
+    },
+    {
+        "price_avg": "686.134615",
+        "price_number": 114.93600061804844,
+        "date_year_j": "03-17"
+    },
+    {
+        "price_avg": "688.083077",
+        "price_number": 115.21997725432409,
+        "date_year_j": "03-18"
+    },
+    {
+        "price_avg": "693.246154",
+        "price_number": 115.97033388604228,
+        "date_year_j": "03-19"
+    },
+    {
+        "price_avg": "685.423846",
+        "price_number": 114.84197450678491,
+        "date_year_j": "03-20"
+    },
+    {
+        "price_avg": "690.132308",
+        "price_number": 115.52891617469997,
+        "date_year_j": "03-21"
+    },
+    {
+        "price_avg": "677.966923",
+        "price_number": 113.76615491008751,
+        "date_year_j": "03-22"
+    },
+    {
+        "price_avg": "684.768462",
+        "price_number": 114.76938069725472,
+        "date_year_j": "03-23"
+    },
+    {
+        "price_avg": "658.939231",
+        "price_number": 110.99741507188688,
+        "date_year_j": "03-24"
+    },
+    {
+        "price_avg": "649.644615",
+        "price_number": 109.58687286059761,
+        "date_year_j": "03-25"
+    },
+    {
+        "price_avg": "653.173077",
+        "price_number": 110.13001012650106,
+        "date_year_j": "03-26"
+    },
+    {
+        "price_avg": "658.334615",
+        "price_number": 110.92023528760333,
+        "date_year_j": "03-27"
+    },
+    {
+        "price_avg": "655.823077",
+        "price_number": 110.53873658728055,
+        "date_year_j": "03-28"
+    },
+    {
+        "price_avg": "658.632308",
+        "price_number": 110.96708854660021,
+        "date_year_j": "03-29"
+    },
+    {
+        "price_avg": "664.060769",
+        "price_number": 111.79129059895384,
+        "date_year_j": "03-30"
+    },
+    {
+        "price_avg": "672.778462",
+        "price_number": 113.10407602567432,
+        "date_year_j": "03-31"
+    },
+    {
+        "price_avg": "672.980769",
+        "price_number": 113.1341463997167,
+        "date_year_j": "04-01"
+    },
+    {
+        "price_avg": "669.160769",
+        "price_number": 112.566522453244,
+        "date_year_j": "04-02"
+    },
+    {
+        "price_avg": "670.356154",
+        "price_number": 112.74516188570601,
+        "date_year_j": "04-03"
+    },
+    {
+        "price_avg": "667.577692",
+        "price_number": 112.33068638884946,
+        "date_year_j": "04-04"
+    },
+    {
+        "price_avg": "663.437692",
+        "price_number": 111.71053385085843,
+        "date_year_j": "04-05"
+    },
+    {
+        "price_avg": "660.647692",
+        "price_number": 111.28999699658516,
+        "date_year_j": "04-06"
+    },
+    {
+        "price_avg": "649.942308",
+        "price_number": 109.66955933674997,
+        "date_year_j": "04-07"
+    },
+    {
+        "price_avg": "644.294615",
+        "price_number": 108.80060636500406,
+        "date_year_j": "04-08"
+    },
+    {
+        "price_avg": "639.001538",
+        "price_number": 107.97907582962932,
+        "date_year_j": "04-09"
+    },
+    {
+        "price_avg": "650.277692",
+        "price_number": 109.74372792034151,
+        "date_year_j": "04-10"
+    },
+    {
+        "price_avg": "651.687692",
+        "price_number": 109.96055836329633,
+        "date_year_j": "04-11"
+    },
+    {
+        "price_avg": "654.824615",
+        "price_number": 110.44191209124122,
+        "date_year_j": "04-12"
+    },
+    {
+        "price_avg": "655.040000",
+        "price_number": 110.47480410462407,
+        "date_year_j": "04-13"
+    },
+    {
+        "price_avg": "651.798462",
+        "price_number": 109.97994302743794,
+        "date_year_j": "04-14"
+    },
+    {
+        "price_avg": "653.846154",
+        "price_number": 110.29410332688339,
+        "date_year_j": "04-15"
+    },
+    {
+        "price_avg": "658.160769",
+        "price_number": 110.95398562084577,
+        "date_year_j": "04-16"
+    },
+    {
+        "price_avg": "650.150769",
+        "price_number": 109.73695774904323,
+        "date_year_j": "04-17"
+    },
+    {
+        "price_avg": "651.133846",
+        "price_number": 109.88816529148943,
+        "date_year_j": "04-18"
+    },
+    {
+        "price_avg": "648.137692",
+        "price_number": 109.42802118772248,
+        "date_year_j": "04-19"
+    },
+    {
+        "price_avg": "646.910769",
+        "price_number": 109.23872144244551,
+        "date_year_j": "04-20"
+    },
+    {
+        "price_avg": "636.060769",
+        "price_number": 107.56151949745826,
+        "date_year_j": "04-21"
+    },
+    {
+        "price_avg": "638.656923",
+        "price_number": 107.96968081262341,
+        "date_year_j": "04-22"
+    },
+    {
+        "price_avg": "646.347692",
+        "price_number": 109.17389057267326,
+        "date_year_j": "04-23"
+    },
+    {
+        "price_avg": "641.463846",
+        "price_number": 108.418283944778,
+        "date_year_j": "04-24"
+    },
+    {
+        "price_avg": "649.204615",
+        "price_number": 109.62501898499413,
+        "date_year_j": "04-25"
+    },
+    {
+        "price_avg": "649.014615",
+        "price_number": 109.59575240314767,
+        "date_year_j": "04-26"
+    },
+    {
+        "price_avg": "664.535385",
+        "price_number": 111.98718853436638,
+        "date_year_j": "04-27"
+    },
+    {
+        "price_avg": "674.875385",
+        "price_number": 113.54316286370928,
+        "date_year_j": "04-28"
+    },
+    {
+        "price_avg": "674.489231",
+        "price_number": 113.4859443003148,
+        "date_year_j": "04-29"
+    },
+    {
+        "price_avg": "675.759231",
+        "price_number": 113.67423492700384,
+        "date_year_j": "04-30"
+    },
+    {
+        "price_avg": "671.890769",
+        "price_number": 113.10177334267958,
+        "date_year_j": "04-31"
+    },
+    {
+        "price_avg": "667.784615",
+        "price_number": 112.49063918375799,
+        "date_year_j": "05-01"
+    },
+    {
+        "price_avg": "669.186154",
+        "price_number": 112.70051808310939,
+        "date_year_j": "05-02"
+    },
+    {
+        "price_avg": "668.500769",
+        "price_number": 112.59809740451298,
+        "date_year_j": "05-03"
+    },
+    {
+        "price_avg": "653.919231",
+        "price_number": 110.41686760251704,
+        "date_year_j": "05-04"
+    },
+    {
+        "price_avg": "649.751538",
+        "price_number": 109.77952696434272,
+        "date_year_j": "05-05"
+    },
+    {
+        "price_avg": "655.274615",
+        "price_number": 110.62955604114963,
+        "date_year_j": "05-06"
+    },
+    {
+        "price_avg": "655.648462",
+        "price_number": 110.68660799943432,
+        "date_year_j": "05-07"
+    },
+    {
+        "price_avg": "657.542308",
+        "price_number": 110.97545882571751,
+        "date_year_j": "05-08"
+    },
+    {
+        "price_avg": "664.046154",
+        "price_number": 111.96457327825856,
+        "date_year_j": "05-09"
+    },
+    {
+        "price_avg": "662.148462",
+        "price_number": 111.67879615439918,
+        "date_year_j": "05-10"
+    },
+    {
+        "price_avg": "658.303846",
+        "price_number": 111.09816866364169,
+        "date_year_j": "05-11"
+    },
+    {
+        "price_avg": "647.067692",
+        "price_number": 109.39133464341327,
+        "date_year_j": "05-12"
+    },
+    {
+        "price_avg": "648.508462",
+        "price_number": 109.61399604620203,
+        "date_year_j": "05-13"
+    },
+    {
+        "price_avg": "654.572308",
+        "price_number": 110.54904105414212,
+        "date_year_j": "05-14"
+    },
+    {
+        "price_avg": "651.600769",
+        "price_number": 110.09507455362221,
+        "date_year_j": "05-15"
+    },
+    {
+        "price_avg": "650.758462",
+        "price_number": 109.96580721078395,
+        "date_year_j": "05-16"
+    },
+    {
+        "price_avg": "653.065385",
+        "price_number": 110.32030479087074,
+        "date_year_j": "05-17"
+    },
+    {
+        "price_avg": "648.310769",
+        "price_number": 109.59225885409215,
+        "date_year_j": "05-18"
+    },
+    {
+        "price_avg": "647.224615",
+        "price_number": 109.42472284328741,
+        "date_year_j": "05-19"
+    },
+    {
+        "price_avg": "639.450769",
+        "price_number": 108.22361803054788,
+        "date_year_j": "05-20"
+    },
+    {
+        "price_avg": "635.837692",
+        "price_number": 107.658589857128,
+        "date_year_j": "05-21"
+    },
+    {
+        "price_avg": "643.164615",
+        "price_number": 108.81091585040997,
+        "date_year_j": "05-22"
+    },
+    {
+        "price_avg": "637.701538",
+        "price_number": 107.96151013489187,
+        "date_year_j": "05-23"
+    },
+    {
+        "price_avg": "645.386923",
+        "price_number": 109.1666797231766,
+        "date_year_j": "05-24"
+    },
+    {
+        "price_avg": "642.710769",
+        "price_number": 108.75202087208612,
+        "date_year_j": "05-25"
+    },
+    {
+        "price_avg": "645.206923",
+        "price_number": 109.14039992537066,
+        "date_year_j": "05-26"
+    },
+    {
+        "price_avg": "651.533077",
+        "price_number": 110.12088444506328,
+        "date_year_j": "05-27"
+    },
+    {
+        "price_avg": "642.937692",
+        "price_number": 108.80162909127867,
+        "date_year_j": "05-28"
+    },
+    {
+        "price_avg": "642.521538",
+        "price_number": 108.73690213481335,
+        "date_year_j": "05-29"
+    },
+    {
+        "price_avg": "640.043846",
+        "price_number": 108.35128206552939,
+        "date_year_j": "05-30"
+    },
+    {
+        "price_avg": "634.491538",
+        "price_number": 107.48379337163762,
+        "date_year_j": "05-31"
+    },
+    {
+        "price_avg": "646.329231",
+        "price_number": 109.34949090912,
+        "date_year_j": "06-01"
+    },
+    {
+        "price_avg": "644.940769",
+        "price_number": 109.13466819440976,
+        "date_year_j": "06-02"
+    },
+    {
+        "price_avg": "645.905385",
+        "price_number": 109.28423479747869,
+        "date_year_j": "06-03"
+    },
+    {
+        "price_avg": "656.066154",
+        "price_number": 110.85733965710143,
+        "date_year_j": "06-04"
+    },
+    {
+        "price_avg": "653.228462",
+        "price_number": 110.42480827551763,
+        "date_year_j": "06-05"
+    },
+    {
+        "price_avg": "659.958462",
+        "price_number": 111.45507569212631,
+        "date_year_j": "06-06"
+    },
+    {
+        "price_avg": "666.796923",
+        "price_number": 112.49127136105918,
+        "date_year_j": "06-07"
+    },
+    {
+        "price_avg": "670.376923",
+        "price_number": 113.02816646007871,
+        "date_year_j": "06-08"
+    },
+    {
+        "price_avg": "674.829231",
+        "price_number": 113.69231641024041,
+        "date_year_j": "06-09"
+    },
+    {
+        "price_avg": "675.797692",
+        "price_number": 113.83582842120721,
+        "date_year_j": "06-10"
+    },
+    {
+        "price_avg": "671.518462",
+        "price_number": 113.20261672920871,
+        "date_year_j": "06-11"
+    },
+    {
+        "price_avg": "673.033077",
+        "price_number": 113.42816749001565,
+        "date_year_j": "06-12"
+    },
+    {
+        "price_avg": "664.052308",
+        "price_number": 112.09379488532419,
+        "date_year_j": "06-13"
+    },
+    {
+        "price_avg": "666.105385",
+        "price_number": 112.40296887286493,
+        "date_year_j": "06-14"
+    },
+    {
+        "price_avg": "679.504615",
+        "price_number": 114.41454696572181,
+        "date_year_j": "06-15"
+    },
+    {
+        "price_avg": "674.574615",
+        "price_number": 113.68901841283628,
+        "date_year_j": "06-16"
+    },
+    {
+        "price_avg": "666.111538",
+        "price_number": 112.43443859144766,
+        "date_year_j": "06-17"
+    },
+    {
+        "price_avg": "665.623077",
+        "price_number": 112.3611083798938,
+        "date_year_j": "06-18"
+    },
+    {
+        "price_avg": "667.160000",
+        "price_number": 112.5920082770138,
+        "date_year_j": "06-19"
+    },
+    {
+        "price_avg": "659.238462",
+        "price_number": 111.40465621753782,
+        "date_year_j": "06-20"
+    },
+    {
+        "price_avg": "655.094615",
+        "price_number": 110.776075326273,
+        "date_year_j": "06-21"
+    },
+    {
+        "price_avg": "649.906154",
+        "price_number": 109.98405828305552,
+        "date_year_j": "06-22"
+    },
+    {
+        "price_avg": "655.960769",
+        "price_number": 110.91567201878266,
+        "date_year_j": "06-23"
+    },
+    {
+        "price_avg": "666.890000",
+        "price_number": 112.58181297057484,
+        "date_year_j": "06-24"
+    },
+    {
+        "price_avg": "669.779231",
+        "price_number": 113.01505248533739,
+        "date_year_j": "06-25"
+    },
+    {
+        "price_avg": "670.196923",
+        "price_number": 113.07741512375131,
+        "date_year_j": "06-26"
+    },
+    {
+        "price_avg": "660.516923",
+        "price_number": 111.63306352084192,
+        "date_year_j": "06-27"
+    },
+    {
+        "price_avg": "662.437692",
+        "price_number": 111.92386136918107,
+        "date_year_j": "06-28"
+    },
+    {
+        "price_avg": "665.266154",
+        "price_number": 112.35083918674161,
+        "date_year_j": "06-29"
+    },
+    {
+        "price_avg": "654.489231",
+        "price_number": 110.73089761370316,
+        "date_year_j": "06-30"
+    },
+    {
+        "price_avg": "653.623846",
+        "price_number": 110.59867465891476,
+        "date_year_j": "06-31"
+    },
+    {
+        "price_avg": "653.992308",
+        "price_number": 110.65504683723336,
+        "date_year_j": "07-01"
+    },
+    {
+        "price_avg": "652.092308",
+        "price_number": 110.36452354257712,
+        "date_year_j": "07-02"
+    },
+    {
+        "price_avg": "653.605385",
+        "price_number": 110.59655771648735,
+        "date_year_j": "07-03"
+    },
+    {
+        "price_avg": "652.560769",
+        "price_number": 110.43673406387165,
+        "date_year_j": "07-04"
+    },
+    {
+        "price_avg": "663.923846",
+        "price_number": 112.17803963107777,
+        "date_year_j": "07-05"
+    },
+    {
+        "price_avg": "659.735385",
+        "price_number": 111.54717495808332,
+        "date_year_j": "07-06"
+    },
+    {
+        "price_avg": "658.206154",
+        "price_number": 111.31538035758604,
+        "date_year_j": "07-07"
+    },
+    {
+        "price_avg": "658.940000",
+        "price_number": 111.42687217447964,
+        "date_year_j": "07-08"
+    },
+    {
+        "price_avg": "654.037692",
+        "price_number": 110.68290337610648,
+        "date_year_j": "07-09"
+    },
+    {
+        "price_avg": "666.811538",
+        "price_number": 112.63597827626072,
+        "date_year_j": "07-10"
+    },
+    {
+        "price_avg": "663.130769",
+        "price_number": 112.08398287872456,
+        "date_year_j": "07-11"
+    },
+    {
+        "price_avg": "661.366154",
+        "price_number": 111.81787925595631,
+        "date_year_j": "07-12"
+    },
+    {
+        "price_avg": "660.202308",
+        "price_number": 111.64190321107391,
+        "date_year_j": "07-13"
+    },
+    {
+        "price_avg": "666.683077",
+        "price_number": 112.62353701051225,
+        "date_year_j": "07-14"
+    },
+    {
+        "price_avg": "663.925385",
+        "price_number": 112.20989339255672,
+        "date_year_j": "07-15"
+    },
+    {
+        "price_avg": "643.941538",
+        "price_number": 109.19993964602239,
+        "date_year_j": "07-16"
+    },
+    {
+        "price_avg": "639.695385",
+        "price_number": 108.5405392580325,
+        "date_year_j": "07-17"
+    },
+    {
+        "price_avg": "635.430769",
+        "price_number": 107.87387570222148,
+        "date_year_j": "07-18"
+    },
+    {
+        "price_avg": "630.146923",
+        "price_number": 107.0423380654282,
+        "date_year_j": "07-19"
+    },
+    {
+        "price_avg": "623.019231",
+        "price_number": 105.91122217168288,
+        "date_year_j": "07-20"
+    },
+    {
+        "price_avg": "614.443077",
+        "price_number": 104.5346749363376,
+        "date_year_j": "07-21"
+    },
+    {
+        "price_avg": "608.364615",
+        "price_number": 103.5454112880794,
+        "date_year_j": "07-22"
+    },
+    {
+        "price_avg": "605.883846",
+        "price_number": 103.13763461290246,
+        "date_year_j": "07-23"
+    },
+    {
+        "price_avg": "612.675385",
+        "price_number": 104.25856547198333,
+        "date_year_j": "07-24"
+    },
+    {
+        "price_avg": "607.327692",
+        "price_number": 103.38572266959132,
+        "date_year_j": "07-25"
+    },
+    {
+        "price_avg": "603.083077",
+        "price_number": 102.68682237969642,
+        "date_year_j": "07-26"
+    },
+    {
+        "price_avg": "600.790000",
+        "price_number": 102.30659665500741,
+        "date_year_j": "07-27"
+    },
+    {
+        "price_avg": "595.027692",
+        "price_number": 101.34747483207428,
+        "date_year_j": "07-28"
+    },
+    {
+        "price_avg": "595.200769",
+        "price_number": 101.37656204974952,
+        "date_year_j": "07-29"
+    },
+    {
+        "price_avg": "592.118462",
+        "price_number": 100.85870199974008,
+        "date_year_j": "07-30"
+    },
+    {
+        "price_avg": "588.205385",
+        "price_number": 100.19784150456437,
+        "date_year_j": "08-01"
+    },
+    {
+        "price_avg": "593.832308",
+        "price_number": 101.15446705466879,
+        "date_year_j": "08-02"
+    },
+    {
+        "price_avg": "597.662308",
+        "price_number": 101.79943027886574,
+        "date_year_j": "08-03"
+    },
+    {
+        "price_avg": "596.641538",
+        "price_number": 101.62863650680808,
+        "date_year_j": "08-04"
+    },
+    {
+        "price_avg": "598.795385",
+        "price_number": 101.98963165428304,
+        "date_year_j": "08-05"
+    },
+    {
+        "price_avg": "600.312308",
+        "price_number": 102.24296076101956,
+        "date_year_j": "08-06"
+    },
+    {
+        "price_avg": "602.603846",
+        "price_number": 102.6246850684279,
+        "date_year_j": "08-07"
+    },
+    {
+        "price_avg": "605.090000",
+        "price_number": 103.03725362677726,
+        "date_year_j": "08-08"
+    },
+    {
+        "price_avg": "598.091538",
+        "price_number": 101.88065510424342,
+        "date_year_j": "08-09"
+    },
+    {
+        "price_avg": "604.761538",
+        "price_number": 102.9958690098446,
+        "date_year_j": "08-10"
+    },
+    {
+        "price_avg": "612.826923",
+        "price_number": 104.32951615722651,
+        "date_year_j": "08-11"
+    },
+    {
+        "price_avg": "620.485385",
+        "price_number": 105.5792102735537,
+        "date_year_j": "08-12"
+    },
+    {
+        "price_avg": "617.237692",
+        "price_number": 105.05579858997312,
+        "date_year_j": "08-13"
+    },
+    {
+        "price_avg": "624.783846",
+        "price_number": 106.27836715598998,
+        "date_year_j": "08-14"
+    },
+    {
+        "price_avg": "623.904615",
+        "price_number": 106.13764152653765,
+        "date_year_j": "08-15"
+    },
+    {
+        "price_avg": "625.744615",
+        "price_number": 106.43255840257325,
+        "date_year_j": "08-16"
+    },
+    {
+        "price_avg": "631.256923",
+        "price_number": 107.31347816885842,
+        "date_year_j": "08-17"
+    },
+    {
+        "price_avg": "630.720000",
+        "price_number": 107.22842199276957,
+        "date_year_j": "08-18"
+    },
+    {
+        "price_avg": "634.554615",
+        "price_number": 107.83639621270868,
+        "date_year_j": "08-19"
+    },
+    {
+        "price_avg": "632.234615",
+        "price_number": 107.47078544491053,
+        "date_year_j": "08-20"
+    },
+    {
+        "price_avg": "628.748462",
+        "price_number": 106.91938365239717,
+        "date_year_j": "08-21"
+    },
+    {
+        "price_avg": "615.866923",
+        "price_number": 104.87062492318695,
+        "date_year_j": "08-22"
+    },
+    {
+        "price_avg": "628.034615",
+        "price_number": 106.84632641738783,
+        "date_year_j": "08-23"
+    },
+    {
+        "price_avg": "633.840769",
+        "price_number": 107.77082227499275,
+        "date_year_j": "08-24"
+    },
+    {
+        "price_avg": "638.764615",
+        "price_number": 108.54764923861144,
+        "date_year_j": "08-25"
+    },
+    {
+        "price_avg": "642.450769",
+        "price_number": 109.12472472360837,
+        "date_year_j": "08-26"
+    },
+    {
+        "price_avg": "644.377692",
+        "price_number": 109.42465790027796,
+        "date_year_j": "08-27"
+    },
+    {
+        "price_avg": "647.259231",
+        "price_number": 109.87183958204233,
+        "date_year_j": "08-28"
+    },
+    {
+        "price_avg": "639.892308",
+        "price_number": 108.73366763374608,
+        "date_year_j": "08-29"
+    },
+    {
+        "price_avg": "645.143846",
+        "price_number": 109.55435854287951,
+        "date_year_j": "08-30"
+    },
+    {
+        "price_avg": "639.741538",
+        "price_number": 108.71697816120258,
+        "date_year_j": "09-01"
+    },
+    {
+        "price_avg": "635.608462",
+        "price_number": 108.07092412930072,
+        "date_year_j": "09-02"
+    },
+    {
+        "price_avg": "634.953846",
+        "price_number": 107.96793368170029,
+        "date_year_j": "09-03"
+    },
+    {
+        "price_avg": "634.190000",
+        "price_number": 107.84763422925789,
+        "date_year_j": "09-04"
+    },
+    {
+        "price_avg": "629.414615",
+        "price_number": 107.09464458892928,
+        "date_year_j": "09-05"
+    },
+    {
+        "price_avg": "630.731538",
+        "price_number": 107.30387439844046,
+        "date_year_j": "09-06"
+    },
+    {
+        "price_avg": "633.587692",
+        "price_number": 107.75670636068173,
+        "date_year_j": "09-07"
+    },
+    {
+        "price_avg": "638.182308",
+        "price_number": 108.48188080109685,
+        "date_year_j": "09-08"
+    },
+    {
+        "price_avg": "637.740769",
+        "price_number": 108.4126938314073,
+        "date_year_j": "09-09"
+    },
+    {
+        "price_avg": "635.287692",
+        "price_number": 108.02804271307805,
+        "date_year_j": "09-10"
+    },
+    {
+        "price_avg": "637.616154",
+        "price_number": 108.39456358689975,
+        "date_year_j": "09-11"
+    },
+    {
+        "price_avg": "639.302308",
+        "price_number": 108.65901014921191,
+        "date_year_j": "09-12"
+    },
+    {
+        "price_avg": "640.465385",
+        "price_number": 108.84093925934425,
+        "date_year_j": "09-13"
+    },
+    {
+        "price_avg": "659.216923",
+        "price_number": 111.76873808175836,
+        "date_year_j": "09-14"
+    },
+    {
+        "price_avg": "657.110000",
+        "price_number": 111.44912811325032,
+        "date_year_j": "09-15"
+    },
+    {
+        "price_avg": "660.506923",
+        "price_number": 111.96607702591335,
+        "date_year_j": "09-16"
+    },
+    {
+        "price_avg": "667.060000",
+        "price_number": 112.95820546118183,
+        "date_year_j": "09-17"
+    },
+    {
+        "price_avg": "677.660000",
+        "price_number": 114.54726791433448,
+        "date_year_j": "09-18"
+    },
+    {
+        "price_avg": "670.656154",
+        "price_number": 113.5137339887671,
+        "date_year_j": "09-19"
+    },
+    {
+        "price_avg": "666.717692",
+        "price_number": 112.92647895852399,
+        "date_year_j": "09-20"
+    },
+    {
+        "price_avg": "668.448462",
+        "price_number": 113.18607458959356,
+        "date_year_j": "09-21"
+    },
+    {
+        "price_avg": "671.100000",
+        "price_number": 113.58274511106752,
+        "date_year_j": "09-22"
+    },
+    {
+        "price_avg": "672.274615",
+        "price_number": 113.75777342279454,
+        "date_year_j": "09-23"
+    },
+    {
+        "price_avg": "671.106923",
+        "price_number": 113.58408071241308,
+        "date_year_j": "09-24"
+    },
+    {
+        "price_avg": "674.360769",
+        "price_number": 114.06892834078421,
+        "date_year_j": "09-25"
+    },
+    {
+        "price_avg": "687.413077",
+        "price_number": 116.00443654351598,
+        "date_year_j": "09-26"
+    },
+    {
+        "price_avg": "693.814615",
+        "price_number": 116.93568708473894,
+        "date_year_j": "09-27"
+    },
+    {
+        "price_avg": "690.988462",
+        "price_number": 116.52835161804515,
+        "date_year_j": "09-28"
+    },
+    {
+        "price_avg": "698.873846",
+        "price_number": 117.66952609976897,
+        "date_year_j": "09-29"
+    },
+    {
+        "price_avg": "699.871538",
+        "price_number": 117.81228319473115,
+        "date_year_j": "09-30"
+    },
+    {
+        "price_avg": "709.328462",
+        "price_number": 119.16352031276351,
+        "date_year_j": "10-01"
+    },
+    {
+        "price_avg": "713.229231",
+        "price_number": 119.71344453108708,
+        "date_year_j": "10-02"
+    },
+    {
+        "price_avg": "719.880000",
+        "price_number": 120.64593141061039,
+        "date_year_j": "10-03"
+    },
+    {
+        "price_avg": "726.333846",
+        "price_number": 121.54244833009697,
+        "date_year_j": "10-04"
+    },
+    {
+        "price_avg": "724.608462",
+        "price_number": 121.30490136605258,
+        "date_year_j": "10-05"
+    },
+    {
+        "price_avg": "728.673846",
+        "price_number": 121.8659469807807,
+        "date_year_j": "10-06"
+    },
+    {
+        "price_avg": "735.450769",
+        "price_number": 122.79598214496306,
+        "date_year_j": "10-07"
+    },
+    {
+        "price_avg": "728.495385",
+        "price_number": 121.85025140496298,
+        "date_year_j": "10-08"
+    },
+    {
+        "price_avg": "731.863077",
+        "price_number": 122.31253189010289,
+        "date_year_j": "10-09"
+    },
+    {
+        "price_avg": "730.702308",
+        "price_number": 122.15392722257982,
+        "date_year_j": "10-10"
+    },
+    {
+        "price_avg": "721.800000",
+        "price_number": 120.93560508201256,
+        "date_year_j": "10-11"
+    },
+    {
+        "price_avg": "725.315385",
+        "price_number": 121.4226354228272,
+        "date_year_j": "10-12"
+    },
+    {
+        "price_avg": "730.057692",
+        "price_number": 122.07646230945804,
+        "date_year_j": "10-13"
+    },
+    {
+        "price_avg": "730.693077",
+        "price_number": 122.16349447239017,
+        "date_year_j": "10-14"
+    },
+    {
+        "price_avg": "736.626154",
+        "price_number": 122.97547383647002,
+        "date_year_j": "10-15"
+    },
+    {
+        "price_avg": "733.600000",
+        "price_number": 122.56466110825401,
+        "date_year_j": "10-16"
+    },
+    {
+        "price_avg": "728.181538",
+        "price_number": 121.82604851283418,
+        "date_year_j": "10-17"
+    },
+    {
+        "price_avg": "728.252308",
+        "price_number": 121.83576724316539,
+        "date_year_j": "10-18"
+    },
+    {
+        "price_avg": "726.333077",
+        "price_number": 121.57222794793532,
+        "date_year_j": "10-19"
+    },
+    {
+        "price_avg": "733.500769",
+        "price_number": 122.5590606046009,
+        "date_year_j": "10-20"
+    },
+    {
+        "price_avg": "742.323846",
+        "price_number": 123.7619328268112,
+        "date_year_j": "10-21"
+    },
+    {
+        "price_avg": "751.582308",
+        "price_number": 125.00915963353297,
+        "date_year_j": "10-22"
+    },
+    {
+        "price_avg": "746.433077",
+        "price_number": 124.32404092528365,
+        "date_year_j": "10-23"
+    },
+    {
+        "price_avg": "746.547692",
+        "price_number": 124.33939595221528,
+        "date_year_j": "10-24"
+    },
+    {
+        "price_avg": "741.172308",
+        "price_number": 123.6193637215082,
+        "date_year_j": "10-25"
+    },
+    {
+        "price_avg": "742.613077",
+        "price_number": 123.81375428149657,
+        "date_year_j": "10-26"
+    },
+    {
+        "price_avg": "733.576923",
+        "price_number": 122.59694915378401,
+        "date_year_j": "10-27"
+    },
+    {
+        "price_avg": "731.742308",
+        "price_number": 122.34685745344845,
+        "date_year_j": "10-28"
+    },
+    {
+        "price_avg": "723.571538",
+        "price_number": 121.23023895118742,
+        "date_year_j": "10-29"
+    },
+    {
+        "price_avg": "732.843077",
+        "price_number": 122.51159656589226,
+        "date_year_j": "10-30"
+    },
+    {
+        "price_avg": "735.735385",
+        "price_number": 122.90626605118509,
+        "date_year_j": "11-01"
+    },
+    {
+        "price_avg": "735.071538",
+        "price_number": 122.81603700776346,
+        "date_year_j": "11-02"
+    },
+    {
+        "price_avg": "729.019231",
+        "price_number": 121.99267401693575,
+        "date_year_j": "11-03"
+    },
+    {
+        "price_avg": "748.287692",
+        "price_number": 124.63574023256484,
+        "date_year_j": "11-04"
+    },
+    {
+        "price_avg": "731.933077",
+        "price_number": 122.45013499345048,
+        "date_year_j": "11-05"
+    },
+    {
+        "price_avg": "730.113846",
+        "price_number": 122.20158344452246,
+        "date_year_j": "11-06"
+    },
+    {
+        "price_avg": "725.232308",
+        "price_number": 121.53298387929794,
+        "date_year_j": "11-07"
+    },
+    {
+        "price_avg": "750.354615",
+        "price_number": 124.9970197093178,
+        "date_year_j": "11-08"
+    },
+    {
+        "price_avg": "752.596923",
+        "price_number": 125.29585281504875,
+        "date_year_j": "11-09"
+    },
+    {
+        "price_avg": "748.523846",
+        "price_number": 124.75464983168233,
+        "date_year_j": "11-10"
+    },
+    {
+        "price_avg": "763.989231",
+        "price_number": 126.82076770924157,
+        "date_year_j": "11-11"
+    },
+    {
+        "price_avg": "768.236923",
+        "price_number": 127.37675617447688,
+        "date_year_j": "11-12"
+    },
+    {
+        "price_avg": "760.920000",
+        "price_number": 126.42432564413643,
+        "date_year_j": "11-13"
+    },
+    {
+        "price_avg": "747.272308",
+        "price_number": 124.63074786986319,
+        "date_year_j": "11-14"
+    },
+    {
+        "price_avg": "742.865385",
+        "price_number": 124.0410133175693,
+        "date_year_j": "11-15"
+    },
+    {
+        "price_avg": "738.042308",
+        "price_number": 123.39176015577338,
+        "date_year_j": "11-16"
+    },
+    {
+        "price_avg": "736.678462",
+        "price_number": 123.2069677685055,
+        "date_year_j": "11-17"
+    },
+    {
+        "price_avg": "743.662308",
+        "price_number": 124.15498598272609,
+        "date_year_j": "11-18"
+    },
+    {
+        "price_avg": "750.724615",
+        "price_number": 125.10465183563092,
+        "date_year_j": "11-19"
+    },
+    {
+        "price_avg": "759.030000",
+        "price_number": 126.21096763160358,
+        "date_year_j": "11-20"
+    },
+    {
+        "price_avg": "759.979231",
+        "price_number": 126.33602606144167,
+        "date_year_j": "11-21"
+    },
+    {
+        "price_avg": "748.428462",
+        "price_number": 124.81614650041719,
+        "date_year_j": "11-23"
+    },
+    {
+        "price_avg": "764.892308",
+        "price_number": 127.01593536948347,
+        "date_year_j": "11-24"
+    },
+    {
+        "price_avg": "770.440000",
+        "price_number": 127.74122596816996,
+        "date_year_j": "11-25"
+    },
+    {
+        "price_avg": "771.060769",
+        "price_number": 127.82179927692859,
+        "date_year_j": "11-26"
+    },
+    {
+        "price_avg": "771.563846",
+        "price_number": 127.88704406958642,
+        "date_year_j": "11-27"
+    },
+    {
+        "price_avg": "753.848462",
+        "price_number": 125.59100802644606,
+        "date_year_j": "11-28"
+    },
+    {
+        "price_avg": "754.876154",
+        "price_number": 125.72733409883381,
+        "date_year_j": "11-29"
+    },
+    {
+        "price_avg": "764.896154",
+        "price_number": 127.05470415111392,
+        "date_year_j": "11-30"
+    },
+    {
+        "price_avg": "774.410769",
+        "price_number": 128.2986135302164,
+        "date_year_j": "12-01"
+    },
+    {
+        "price_avg": "780.497692",
+        "price_number": 129.08462054918644,
+        "date_year_j": "12-02"
+    },
+    {
+        "price_avg": "776.691538",
+        "price_number": 128.5969632455182,
+        "date_year_j": "12-03"
+    },
+    {
+        "price_avg": "774.868462",
+        "price_number": 128.36223994665306,
+        "date_year_j": "12-04"
+    },
+    {
+        "price_avg": "773.842308",
+        "price_number": 128.22981050213141,
+        "date_year_j": "12-05"
+    },
+    {
+        "price_avg": "779.043846",
+        "price_number": 128.9019807810405,
+        "date_year_j": "12-06"
+    },
+    {
+        "price_avg": "772.607692",
+        "price_number": 128.07582009277547,
+        "date_year_j": "12-07"
+    },
+    {
+        "price_avg": "771.540769",
+        "price_number": 127.93772633431985,
+        "date_year_j": "12-08"
+    },
+    {
+        "price_avg": "775.751538",
+        "price_number": 128.48348738405124,
+        "date_year_j": "12-09"
+    },
+    {
+        "price_avg": "771.269231",
+        "price_number": 127.90568550027335,
+        "date_year_j": "12-10"
+    },
+    {
+        "price_avg": "771.961538",
+        "price_number": 127.99544754083892,
+        "date_year_j": "12-11"
+    },
+    {
+        "price_avg": "780.695385",
+        "price_number": 129.1268312393879,
+        "date_year_j": "12-12"
+    },
+    {
+        "price_avg": "781.419231",
+        "price_number": 129.21954934864124,
+        "date_year_j": "12-13"
+    },
+    {
+        "price_avg": "778.000769",
+        "price_number": 128.78208097515045,
+        "date_year_j": "12-14"
+    },
+    {
+        "price_avg": "781.715385",
+        "price_number": 129.25953757262587,
+        "date_year_j": "12-15"
+    },
+    {
+        "price_avg": "788.443846",
+        "price_number": 130.12026784979702,
+        "date_year_j": "12-16"
+    },
+    {
+        "price_avg": "785.664615",
+        "price_number": 129.7677721059213,
+        "date_year_j": "12-17"
+    },
+    {
+        "price_avg": "780.816923",
+        "price_number": 129.1507541179087,
+        "date_year_j": "12-18"
+    },
+    {
+        "price_avg": "778.736923",
+        "price_number": 128.88436644895188,
+        "date_year_j": "12-19"
+    },
+    {
+        "price_avg": "777.903846",
+        "price_number": 128.77738847277084,
+        "date_year_j": "12-20"
+    },
+    {
+        "price_avg": "771.373846",
+        "price_number": 127.93795310635923,
+        "date_year_j": "12-21"
+    },
+    {
+        "price_avg": "767.955385",
+        "price_number": 127.4947878347174,
+        "date_year_j": "12-22"
+    },
+    {
+        "price_avg": "768.099231",
+        "price_number": 127.51351887076581,
+        "date_year_j": "12-23"
+    },
+    {
+        "price_avg": "772.524615",
+        "price_number": 128.08966630346646,
+        "date_year_j": "12-24"
+    },
+    {
+        "price_avg": "771.852308",
+        "price_number": 128.00263904414734,
+        "date_year_j": "12-25"
+    },
+    {
+        "price_avg": "778.544615",
+        "price_number": 128.8696840643716,
+        "date_year_j": "12-26"
+    },
+    {
+        "price_avg": "790.778462",
+        "price_number": 130.4410579797894,
+        "date_year_j": "12-27"
+    },
+    {
+        "price_avg": "807.784615",
+        "price_number": 132.5916164253228,
+        "date_year_j": "12-28"
+    }
+]
