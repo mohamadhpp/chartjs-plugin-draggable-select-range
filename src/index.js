@@ -134,7 +134,7 @@ export default
 
     start: (chart, args, options) =>
     {
-        if(!chart.config.options.plugins.draggableSelectRange.enabled)
+        if(!chart.config.options.plugins.draggableSelectRange.enable)
         {
             return;
         }
@@ -221,7 +221,7 @@ export default
 
             chart.update();
 
-            const selectCompleteCallback = chart.config.options.plugins.draggableSelectRange.onSelectComplete;
+            const selectCompleteCallback = chart.config.options.plugins.draggableSelectRange.onSelect;
 
             if(chart.config.options.plugins.draggableSelectRange)
             {
@@ -346,6 +346,8 @@ export default
         Graphics.draw(chart, options);
         chart.render();
 
+        chart.update();
+
         return [startIndex, endIndex];
     },
 
@@ -366,6 +368,7 @@ export default
 
     defaults:
     {
+        enable: false,
         unselectColor: "rgba(255,255,255,0.65)",
 
         borderColor: "#2388FF",
@@ -376,7 +379,7 @@ export default
 
         text:
         {
-            enable: false,
+            enable: true,
             color: "#000",
 
             offset: 0,

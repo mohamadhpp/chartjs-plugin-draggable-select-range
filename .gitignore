@@ -1,7 +1,12 @@
 # Dependency directories
 node_modules
-example/node_modules
 
-# Optional npm cache directory
+# Example
+example/node_modules
 example/.parcel-cache
-dist
+example/dist
+
+# Docs
+docs/node_modules
+docs/docs/.vuepress/.temp
+docs/docs/.vuepress/.cache

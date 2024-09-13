@@ -9,7 +9,7 @@ Chart.register(draggableSelectRangePlugin);
     // Plugin config
     const draggableSelectRangeConfig =
     {
-        enabled: true,
+        enable: true,
 
         unselectColor: "rgba(255,255,255,0.65)",
 
@@ -17,22 +17,24 @@ Chart.register(draggableSelectRangePlugin);
         borderWidth: 2,
 
         text:
-            {
-                enable: true,
-                color: "#000",
-
-                offset: -15,
-                padding: 1,
-
-                font:
-                    {
-                        family: 'Arial',
-                        size: 13
-                    }
-            },
-
-        onSelectComplete: (event) =>
         {
+            enable: true,
+            color: "#000",
+
+            offset: -15,
+            padding: 1,
+
+            font:
+            {
+                family: 'Arial',
+                size: 13
+            }
+        },
+
+        onSelect: (event) =>
+        {
+            console.log(event)
+
             // Show selected range in html
             document.getElementById("range_from").innerHTML = event.range[0];
             document.getElementById("range_to").innerHTML = event.range[1];
@@ -199,11 +201,12 @@ Chart.register(draggableSelectRangePlugin);
         myChart.update();
     }
 
-    // Function for clear selected range
+    // It method for clear selected range
     function Clear()
     {
         draggableSelectRangePlugin.clearDraw(myChart);
 
+        // Clear data from page
         myChart.config.options.plugins.draggableSelectRange.startDataIndex = undefined;
         myChart.config.options.plugins.draggableSelectRange.endDataIndex = undefined;
 
@@ -211,18 +214,14 @@ Chart.register(draggableSelectRangePlugin);
         document.getElementById("range_to").innerHTML = "---";
     }
 
-    // Function for set a custom range from '04-24' to '09-08'
+    // It method for set a custom range from '04-24' to '09-08'
     function SetRange()
     {
-        let dataIndexes = draggableSelectRangePlugin.setRange(myChart, draggableSelectRangeConfig, ['04-24', '09-08']);
+        draggableSelectRangePlugin.setRange(myChart, draggableSelectRangeConfig, ['04-24', '09-08']);
 
-        myChart.config.options.plugins.draggableSelectRange.startDataIndex = dataIndexes[0];
-        myChart.config.options.plugins.draggableSelectRange.endDataIndex = dataIndexes[1];
-
+        // Set data in page
         document.getElementById("range_from").innerHTML = '04-24';
         document.getElementById("range_to").innerHTML = '09-08';
-
-        myChart.update();
     }
 
     // Set methods for button on click event
@@ -236,6 +235,6 @@ Chart.register(draggableSelectRangePlugin);
         x: item["date_year_j"]
     }));
 
-    //Set
+    //Set Data
     setData(myData);
 })();
