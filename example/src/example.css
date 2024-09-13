@@ -44,3 +44,78 @@ html, body, #container
 {
     gap: 5px
 }
+
+/* Github Repository */
+
+.gh-ribbon
+{
+    font-family: Helvetica, Arial, sans-serif;
+    width: 600px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 0.8em;
+    padding: 10px;
+    text-decoration: none;
+    position: fixed;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    z-index: 1000;
+}
+
+.gh-ribbon:after
+{
+    content: "";
+    position: relative;
+    display: block;
+    top: 8px;
+    left: 0;
+    width: 600px;
+    border: 1px dashed rgba(255, 255, 255, 0.4);
+}
+
+.gh-ribbon:before
+{
+    content: "";
+    position: relative;
+    display: block;
+    bottom: 8px;
+    left: 0;
+    width: 600px;
+    border: 1px dashed rgba(255, 255, 255, 0.4);
+}
+
+.gh-ribbon.white:after
+{
+    content: "";
+    position: relative;
+    display: block;
+    top: 8px;
+    left: 0;
+    width: 600px;
+    border: 1px dashed rgba(0, 0, 0, 0.4);
+}
+
+.gh-ribbon.white:before
+{
+    content: "";
+    position: relative;
+    display: block;
+    bottom: 8px;
+    left: 0;
+    width: 600px;
+    border: 1px dashed rgba(0, 0, 0, 0.4);
+}
+
+.gh-ribbon.left
+{
+    top: 15px;
+    left: -285px;
+
+    transform: rotate(-45deg) translateY(100%);
+}
+
+.gh-ribbon.blue
+{
+    background-color: blue;
+    color: white;
+}

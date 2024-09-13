@@ -17,17 +17,17 @@ It is also possible to display it on the chart by selecting the desired interval
 
 # Demo
 
-[![Draggable Select Range Chart.js Plugin Demo](./docs/docs/.vuepress/public/images/demo.png)](https://github.com/mohamadhpp)
+[![Draggable Select Range Chart.js Plugin Demo](./docs/docs/.vuepress/public/images/demo.png)](https://codepen.io/mohamadhpp/pen/YzoMJpo)
 
 
 In the example folder, there is a example to explain the plugin. The demo version is also available online in the link below.
 
-Show online demo: [Online Demo](https://github.com/mohamadhpp?target=_blank)
+Show online demo: [Online Demo](https://codepen.io/mohamadhpp/pen/YzoMJpo)
 
 # Documentation
 
 Plugin documents can be accessed both inside the docs folder and online from the link below.
 
-<a href="https://github.com/mohamadhpp" target="_blank">
+<a href="https://chartjs-plugin-draggable-select-range.vercel.app/" target="_blank">
     Plugin Online Documentation
 </a>

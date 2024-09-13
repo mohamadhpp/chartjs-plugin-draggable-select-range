@@ -98,11 +98,11 @@ In this plugin, there is only one event, and it is for the time of choosing the 
 
 ## Example & Demo
 
-[![Demo](/images/demo.png)](https://github.com/mohamadhpp)
+[![Demo](/images/demo.png)](https://codepen.io/mohamadhpp/pen/YzoMJpo)
 
 In the example folder, there is a example to explain the plugin. The demo version is also available online in the link below.
 
-Show online demo: [Online Demo](https://github.com/mohamadhpp)
+Show online demo: [Online Demo](https://codepen.io/mohamadhpp/pen/YzoMJpo)
 
 
 [routing]: https://vuejs.press/guide/page.html#routing

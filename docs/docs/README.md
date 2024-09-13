@@ -12,7 +12,7 @@ actions:
     type: secondary
 
   - text: Online Demo
-    link: https://github.com/mohamadhpp
+    link: https://codepen.io/mohamadhpp/pen/YzoMJpo
     type: secondary
 
 features:
