@@ -1,4 +1,4 @@
-![Draggable Select Range Plugin | Chart.js](./docs/docs/.vuepress/public/logo.svg)
+![Draggable Select Range Plugin | Chart.js](./docs/docs/.vuepress/public/logo.png)
 
 <h1 align="center">Draggable Select Range Plugin | Chart.js</h1>
 
