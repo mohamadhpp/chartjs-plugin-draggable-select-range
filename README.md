@@ -22,7 +22,7 @@ It is also possible to display it on the chart by selecting the desired interval
 
 In the example folder, there is a example to explain the plugin. The demo version is also available online in the link below.
 
-Show online demo: [Online Demo](https://github.com/mohamadhpp)
+Show online demo: [Online Demo](https://github.com/mohamadhpp?target=_blank)
 
 # Documentation
 
