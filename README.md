@@ -1,4 +1,6 @@
-![Draggable Select Range Plugin | Chart.js](./docs/docs/.vuepress/public/logo.png)
+<p align="center">
+    <img src="./docs/docs/.vuepress/public/logo.png" alt="Draggable Select Range Plugin | Chart.js" title="Draggable Select Range Plugin | Chart.js" />
+</p>
 
 <h1 align="center">Draggable Select Range Plugin | Chart.js</h1>
 
@@ -6,7 +8,9 @@
 A ChartJS select range plugin for Line charts. It select a range of chart from X axis
 </p>
 
-# Introduction
+<br/>
+<br/>
+
 This is a ChartJS selection range plugin for line charts. Selects a range of the chart from the X-axis. You can visually select the desired range on the chart using the mouse and the draggable feature.
 
 It is also possible to display it on the chart by selecting the desired interval with numerical data and using the method available in the plugin. This is a ChartJS selection range plugin for line charts. Selects a range of the chart from the X-axis. You can visually select the desired range on the chart using the mouse and the draggable feature.
