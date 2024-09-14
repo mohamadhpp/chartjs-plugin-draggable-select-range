@@ -2,20 +2,16 @@
     "name": "chartjs-example",
     "version": "1.0.0",
     "license": "MIT",
-    "scripts":
-    {
+    "scripts": {
         "dev": "parcel index.html --no-cache",
         "build": "parcel build index.html"
     },
-
-    "devDependencies":
-    {
+    "devDependencies": {
         "parcel": "^2.6.2"
     },
-
-    "dependencies":
-    {
+    "dependencies": {
         "@cubejs-client/core": "^0.31.0",
-        "chart.js": "^4.0.0"
+        "chart.js": "^4.0.0",
+        "chartjs-plugin-draggable-selectrange": "^1.0.0"
     }
 }

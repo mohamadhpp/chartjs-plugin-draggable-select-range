@@ -1,5 +1,5 @@
 import Chart from 'chart.js/auto';
-import draggableSelectRangePlugin from '../../dist/index.min.js';
+import draggableSelectRangePlugin from 'chartjs-plugin-draggable-selectrange';
 import data from './data.json';
 
 Chart.register(draggableSelectRangePlugin);

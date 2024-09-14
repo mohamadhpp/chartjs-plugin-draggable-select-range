@@ -6,7 +6,8 @@
     "scripts": {
         "postbuild": "Xcopy package.json dist /y",
         "build": "babel src -d dist",
-        "build:prod": "babel src -d dist && uglifyjs --compress -o ./dist/index.min.js -- ./dist/index.js && npm run postbuild"
+        "minify": "uglifyjs --compress -o ./src/index.min.js -- ./src/index.js",
+        "build:prod": "babel src -d dist && uglifyjs --compress -o ./dist/index.min.js -- ./dist/index.js && npm run postbuild && npm run minify"
     },
     "author": "Mohammad Hossein Pour",
     "license": "MIT",
@@ -29,7 +30,9 @@
     "dependencies": {
         "chart.js": "^4.4.4"
     },
-    "pkgRoot": "dist",
+    "files": [
+        "dist/*"
+    ],
     "directories":
     {
         "doc": "docs",

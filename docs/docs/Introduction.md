@@ -19,6 +19,12 @@ Run the following command in the path of the project folder
 npm install chartjs-plugin-draggable-selectrange
 ```
 
+OR Use cdn:
+
+```url
+https://cdn.jsdelivr.net/gh/mohamadhpp/chartjs-plugin-draggable-select-range@master/src/index.min.js
+```
+
 ## Usage
 
 Import the plugin on the desired page using the line below.
