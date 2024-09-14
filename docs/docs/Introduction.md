@@ -30,7 +30,7 @@ https://cdn.jsdelivr.net/gh/mohamadhpp/chartjs-plugin-draggable-select-range@mas
 Import the plugin on the desired page using the line below.
 
 ```js
-import draggableSelectRangePlugin from '../../dist/index.min.js';
+import draggableSelectRangePlugin from 'chartjs-plugin-draggable-selectrange';
 ```
 
 Then you can register the plugin in Chart.js using the following code.
