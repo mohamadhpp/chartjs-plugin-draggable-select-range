@@ -16,7 +16,7 @@ This is a ChartJS selection range plugin for line charts. Selects a range of the
 Run the following command in the path of the project folder
 
 ```bat
-npm install chartjs-plugin-draggable-select-range
+npm install chartjs-plugin-draggable-selectrange
 ```
 
 ## Usage
