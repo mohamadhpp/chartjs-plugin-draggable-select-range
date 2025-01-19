@@ -134,7 +134,7 @@ export default
 
     start: (chart, args, options) =>
     {
-        if(!chart.config.options.plugins.draggableSelectRange.enable)
+        if(!chart?.config?.options?.plugins?.draggableSelectRange?.enable)
         {
             return;
         }
