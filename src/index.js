@@ -139,10 +139,20 @@ export default
             return;
         }
 
+        const { modifierKey } = options;
+        if (modifierKey && modifierKey !== 'ctrl' && modifierKey !== 'alt') {
+            // eslint-disable-next-line no-console
+            console.error('The "modifierKey" option for chartjs-plugin-draggable-select-range must be "ctrl" or "alt".');
+        }
+
         const canvasElement = chart.canvas;
 
         canvasElement.addEventListener("mousedown", (e) =>
         {
+            if (modifierKey && !((modifierKey === 'ctrl' && e.ctrlKey) || (modifierKey === 'alt' && e.altKey))) {
+                return;
+            }
+
             const axisElements = chart.getElementsAtEventForMode(e, "index", { intersect: false });
 
             if(axisElements.length === 0)
@@ -369,6 +379,8 @@ export default
     defaults:
     {
         enable: false,
+        modifierKey: undefined,
+
         unselectColor: "rgba(255,255,255,0.65)",
 
         borderColor: "#2388FF",
