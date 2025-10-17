@@ -1,10 +1,10 @@
 {
     "name": "chartjs-plugin-draggable-selectrange",
-    "version": "1.2.0",
+    "version": "1.1.0",
     "description": "A ChartJS select range plugin for Line charts. It select a range of chart from X axis",
     "main": "index.js",
     "scripts": {
-        "postbuild": "Xcopy package.json dist /y",
+        "postbuild": "cpy package.json dist",
         "build": "babel src -d dist",
         "minify": "uglifyjs --compress -o ./src/index.min.js -- ./src/index.js",
         "build:prod": "babel src -d dist && uglifyjs --compress -o ./dist/index.min.js -- ./dist/index.js && npm run postbuild && npm run minify"

@@ -102,11 +102,20 @@ var Graphics = new Graphic(states);
 var _default = exports["default"] = {
   id: "draggableSelectRange",
   start: function start(chart, args, options) {
-    if (!chart.config.options.plugins.draggableSelectRange.enable) {
+    var _chart$config;
+    if (!(chart !== null && chart !== void 0 && (_chart$config = chart.config) !== null && _chart$config !== void 0 && (_chart$config = _chart$config.options) !== null && _chart$config !== void 0 && (_chart$config = _chart$config.plugins) !== null && _chart$config !== void 0 && (_chart$config = _chart$config.draggableSelectRange) !== null && _chart$config !== void 0 && _chart$config.enable)) {
       return;
+    }
+    var modifierKey = options.modifierKey;
+    if (modifierKey && modifierKey !== 'ctrl' && modifierKey !== 'alt') {
+      // eslint-disable-next-line no-console
+      console.error('The "modifierKey" option for chartjs-plugin-draggable-select-range must be "ctrl" or "alt".');
     }
     var canvasElement = chart.canvas;
     canvasElement.addEventListener("mousedown", function (e) {
+      if (modifierKey && !(modifierKey === 'ctrl' && e.ctrlKey || modifierKey === 'alt' && e.altKey)) {
+        return;
+      }
       var axisElements = chart.getElementsAtEventForMode(e, "index", {
         intersect: false
       });
@@ -258,6 +267,7 @@ var _default = exports["default"] = {
   },
   defaults: {
     enable: false,
+    modifierKey: undefined,
     unselectColor: "rgba(255,255,255,0.65)",
     borderColor: "#2388FF",
     borderWidth: 2,
