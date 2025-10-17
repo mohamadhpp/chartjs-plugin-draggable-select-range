@@ -1,6 +1,6 @@
 {
     "name": "chartjs-plugin-draggable-selectrange",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "A ChartJS select range plugin for Line charts. It select a range of chart from X axis",
     "main": "index.js",
     "scripts": {
@@ -15,6 +15,7 @@
         "@babel/cli": "^7.28.3",
         "@babel/core": "^7.28.4",
         "@babel/preset-env": "^7.28.3",
+        "cpy-cli": "^6.0.0",
         "uglify-js": "^3.19.3"
     },
     "keywords": [
@@ -33,18 +34,15 @@
     "files": [
         "dist/*"
     ],
-    "directories":
-    {
+    "directories": {
         "doc": "docs",
         "example": "example"
     },
-    "repository":
-    {
+    "repository": {
         "type": "git",
         "url": "git+https://github.com/mohamadhpp/chartjs-plugin-draggable-select-range.git"
     },
-    "bugs":
-    {
+    "bugs": {
         "url": "https://github.com/mohamadhpp/chartjs-plugin-draggable-select-range/issues"
     },
     "homepage": "https://chartjs-plugin-draggable-select-range.vercel.app/"
